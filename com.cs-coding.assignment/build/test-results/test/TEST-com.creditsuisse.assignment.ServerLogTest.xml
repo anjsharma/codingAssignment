@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.creditsuisse.assignment.ServerLogTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-29T20:40:08" hostname="DESKTOP-NP96304" time="0.001">
+  <properties/>
+  <testcase name="getLogInputDate_ForDefault" classname="com.creditsuisse.assignment.ServerLogTest" time="0.001"/>
+  <testcase name="isAlertFlag" classname="com.creditsuisse.assignment.ServerLogTest" time="0.0"/>
+  <testcase name="getLogInputDate" classname="com.creditsuisse.assignment.ServerLogTest" time="0.0"/>
+  <system-out><![CDATA[Running a test nr: 1 from a: ServerLogTest
+Running a test nr: 2 from a: ServerLogTest
+Running a test nr: 3 from a: ServerLogTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

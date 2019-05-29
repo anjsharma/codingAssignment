@@ -1,0 +1,12 @@
+7Running a test nr: 1 from a LogsCollectionBuilderTest
+UThe .json file in the path: (src\sourcefile\log.json) has been successfully scanned.
+1All of the logs (3240) are collected in a list.
+7Running a test nr: 2 from a LogsCollectionBuilderTest
+UThe .json file in the path: (src\sourcefile\log.json) has been successfully scanned.
+1All of the logs (3240) are collected in a list.
+7Running a test nr: 3 from a LogsCollectionBuilderTest
+UThe .json file in the path: (src\sourcefile\log.json) has been successfully scanned.
+1All of the logs (3240) are collected in a list.
+,Running a test nr: 1 from a: ServerLogTest
+,Running a test nr: 2 from a: ServerLogTest
+,Running a test nr: 3 from a: ServerLogTest
