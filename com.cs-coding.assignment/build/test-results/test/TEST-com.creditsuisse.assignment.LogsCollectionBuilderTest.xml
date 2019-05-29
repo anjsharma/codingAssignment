@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.creditsuisse.assignment.LogsCollectionBuilderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-29T20:40:07" hostname="DESKTOP-NP96304" time="0.191">
+<testsuite name="com.creditsuisse.assignment.LogsCollectionBuilderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-29T21:00:17" hostname="DESKTOP-NP96304" time="0.211">
   <properties/>
-  <testcase name="isHostNameAvailable" classname="com.creditsuisse.assignment.LogsCollectionBuilderTest" time="0.122"/>
-  <testcase name="setTheAlertFlagsForDelayedEvents_checkFlags" classname="com.creditsuisse.assignment.LogsCollectionBuilderTest" time="0.037"/>
-  <testcase name="isTypeOfMessageAvailable" classname="com.creditsuisse.assignment.LogsCollectionBuilderTest" time="0.031"/>
+  <testcase name="isHostNameAvailable" classname="com.creditsuisse.assignment.LogsCollectionBuilderTest" time="0.125"/>
+  <testcase name="setTheAlertFlagsForDelayedEvents_checkFlags" classname="com.creditsuisse.assignment.LogsCollectionBuilderTest" time="0.038"/>
+  <testcase name="isTypeOfMessageAvailable" classname="com.creditsuisse.assignment.LogsCollectionBuilderTest" time="0.047"/>
   <system-out><![CDATA[Running a test nr: 1 from a LogsCollectionBuilderTest
 The .json file in the path: (src\sourcefile\log.json) has been successfully scanned.
 All of the logs (3240) are collected in a list.
